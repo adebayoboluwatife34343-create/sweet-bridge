@@ -6,7 +6,7 @@
 
 .brand-logo{height:54px;width:auto;border-radius:10px;display:block}
 .footer-brand{display:flex;flex-direction:column;gap:10px;align-items:flex-start}.footer-brand .brand-logo{height:64px}
-.size-badge{position:absolute;left:14px;bottom:14px;z-index:3;background:#382718;color:#fff;font-size:13px;font-weight:700;letter-spacing:1.2px;padding:7px 12px;border-radius:99px}
+.size-badge{position:absolute;left:50%;transform:translateX(-50%);top:14px;white-space:nowrap;z-index:3;background:#382718;color:#fff;font-size:13px;font-weight:700;letter-spacing:1.2px;padding:7px 12px;border-radius:99px}
 .size-pill{display:inline-block;margin:6px 0 4px;padding:7px 14px;border-radius:99px;background:#fbe9bd;color:#382718;font-size:17px}
 .size-pill b{font-weight:800;text-transform:uppercase;letter-spacing:1px}
 .size-pill.big{font-size:22px;padding:9px 18px;margin:10px 0 14px}
